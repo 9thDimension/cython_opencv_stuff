@@ -1,0 +1,3 @@
+/home/hal9000/cython_opencv_stuff/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hal9000/cython_opencv_stuff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hal9000/cython_opencv_stuff/cmake-build-debug/CMakeFiles/cython_opencv_stuff.dir

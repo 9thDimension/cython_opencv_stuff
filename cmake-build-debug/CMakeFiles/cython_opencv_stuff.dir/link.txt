@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/cython_opencv_stuff.dir/main.cpp.o  -o cython_opencv_stuff 
